@@ -6,8 +6,7 @@ pero poco a poco ganara mas funciones
 
 se puede usar correctamente
 
-usando form manager import
- Manager manager= Manager()
+usando form manager import Manager 
 
 su funciones actuales son
 
