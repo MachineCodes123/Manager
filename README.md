@@ -1,3 +1,7 @@
+Git clone: 
+-b proyecto --single-branch https:
+//github.com/MachineCodes123/Manager.git
+
 Este paquete itenta ayudar en algunos aspectos esta 
 en su version mas temprana pero poco a poco ganara mas
 funciones ademas de entrar, ejecutar y comprimir. 
